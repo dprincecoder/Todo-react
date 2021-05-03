@@ -1,0 +1,12 @@
+/*font-family*/
+
+@font-face {
+    font-family: Julee;
+    src: url("./Julee/Julee-Regular.ttf");
+}
+
+
+@font-face {
+    font-family: Livvic;
+    src: url("./Livvic/Livvic-Black.ttf");
+}
